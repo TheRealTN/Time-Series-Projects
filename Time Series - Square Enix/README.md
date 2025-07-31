@@ -23,7 +23,7 @@ To explore and forecast financial time series data, focusing on trends and volat
 
 ## 🖼️ Sample Output
 
-See the `plots/` folder for:
+See the `Plot Images` folder for:
 - ARIMA model fit
 - GARCH volatility forecasts
 - Residual and ACF diagnostics
