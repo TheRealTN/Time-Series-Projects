@@ -19,7 +19,7 @@ The analysis includes ARIMA model building, diagnostics, and volatility modeling
 
 ## 📌 Purpose
 
-To explore and forecast financial time series data, focusing on trends and volatility behavior in the Japanese gaming sector.
+To explore and forecast financial time series data, focusing on trends and volatility behavior in the Japanese gaming sector (specifically Square Enix).
 
 ## 🖼️ Sample Output
 
