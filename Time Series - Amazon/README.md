@@ -1,4 +1,4 @@
-# Time Series Analysis on Amazon's Stock Price
+# 📌Time Series Analysis on Amazon's Stock Price
 
 This project performs a time series analysis and forecasting on Amazon's historical stock prices using R.
 
