@@ -1,1 +1,1 @@
-# 📌Repository that contains all Time Series Projects by Thien Ho
+# 📌All Time Series Projects by Thien Ho
