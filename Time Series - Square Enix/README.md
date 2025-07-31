@@ -1,4 +1,4 @@
-# ⏱ Time Series Analysis of Japanese Game Publisher Stock Data
+# ⏱ Time Series Analysis of Square Enix (A Japanese Game Publisher)
 
 This project performs a time series analysis on stock prices from a Japanese game publishing company using R. 
 The analysis includes ARIMA model building, diagnostics, and volatility modeling (GARCH), along with visualizations of the results.
